@@ -1,0 +1,39 @@
+h1{
+    font-style: italic;
+    position:relative;
+    left: 10cm;
+   color:rgb(hwb(180 68% 8%));
+}
+p{
+    position: relative;
+    left: 10cm;
+}
+.box {
+    width: 200px;
+    height: 450px;
+    background-color: lightgray;
+    padding: 5px;
+    position: relative;
+    left: 4cm;
+    text-align: center;
+  }
+  img{
+    width: 200px;
+    height: 200px;
+  }
+  .boxes{
+    width: 200px;
+    height: 410px;
+    background-color: rgb(144, 128, 128);
+    position: relative;
+    left: 15cm;
+    bottom: 12cm;
+    padding: 5px;
+  }
+  body{
+    background-color:rgb(2, 255, 255)
+  }
+p{
+  position: relative;
+  right: 9cm;
+}

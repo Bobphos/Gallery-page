@@ -2,12 +2,9 @@ h1{
     font-style: italic;
     position:relative;
     left: 10cm;
-   color:rgb(hwb(180 68% 8%));
+    color:rgb(hwb(180 68% 8%));
 }
-p{
-    position: relative;
-    left: 10cm;
-}
+
 .box {
     width: 200px;
     height: 450px;
@@ -30,10 +27,11 @@ p{
     bottom: 12cm;
     padding: 5px;
   }
-  body{
-    background-color:rgb(2, 255, 255)
+
+  body {
+    background-color:rgb(2, 255, 255);
   }
-p{
-  position: relative;
-  right: 9cm;
-}
+
+  .p-escondido {
+    display: none;
+  }

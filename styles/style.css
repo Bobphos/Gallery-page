@@ -4,10 +4,6 @@ h1{
     left: 10cm;
    color:rgb(hwb(180 68% 8%));
 }
-p{
-    position: relative;
-    left: 10cm;
-}
 .box {
     width: 200px;
     height: 450px;
@@ -32,4 +28,7 @@ p{
   }
   body{
     background-color:rgb(2, 255, 255)
+  }
+  .p-escondido {
+    display: none;
   }
